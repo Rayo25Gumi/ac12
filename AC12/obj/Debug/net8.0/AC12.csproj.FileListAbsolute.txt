@@ -1,0 +1,10 @@
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC12/AC12/bin/Debug/net8.0/AC12
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC12/AC12/bin/Debug/net8.0/AC12.dll
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC12/AC12/bin/Debug/net8.0/AC12.pdb
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC12/AC12/obj/Debug/net8.0/AC12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC12/AC12/obj/Debug/net8.0/AC12.AssemblyInfoInputs.cache
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC12/AC12/obj/Debug/net8.0/AC12.AssemblyInfo.cs
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC12/AC12/obj/Debug/net8.0/AC12.csproj.CoreCompileInputs.cache
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC12/AC12/obj/Debug/net8.0/AC12.dll
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC12/AC12/obj/Debug/net8.0/refint/AC12.dll
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC12/AC12/obj/Debug/net8.0/AC12.pdb
